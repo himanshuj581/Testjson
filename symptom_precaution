@@ -1,0 +1,289 @@
+[
+  {
+    "Disease": "Drug Reaction",
+    "Precaution-1": "stop irritation",
+    "Precaution-2": "consult nearest hospital",
+    "Precaution-3": "stop taking drug",
+    "Precaution-4": "follow up"
+  },
+  {
+    "Disease": "Malaria",
+    "Precaution-1": "Consult nearest hospital",
+    "Precaution-2": "avoid oily food",
+    "Precaution-3": "avoid non veg food",
+    "Precaution-4": "keep mosquitos out"
+  },
+  {
+    "Disease": "Allergy",
+    "Precaution-1": "apply calamine",
+    "Precaution-2": "cover area with bandage",
+    "Precaution-3": "",
+    "Precaution-4": "use ice to compress itching"
+  },
+  {
+    "Disease": "Hypothyroidism",
+    "Precaution-1": "reduce stress",
+    "Precaution-2": "exercise",
+    "Precaution-3": "eat healthy",
+    "Precaution-4": "get proper sleep"
+  },
+  {
+    "Disease": "Psoriasis",
+    "Precaution-1": "wash hands with warm soapy water",
+    "Precaution-2": "stop bleeding using pressure",
+    "Precaution-3": "consult doctor",
+    "Precaution-4": "salt baths"
+  },
+  {
+    "Disease": "GERD",
+    "Precaution-1": "avoid fatty spicy food",
+    "Precaution-2": "avoid lying down after eating",
+    "Precaution-3": "maintain healthy weight",
+    "Precaution-4": "exercise"
+  },
+  {
+    "Disease": "Chronic cholestasis",
+    "Precaution-1": "cold baths",
+    "Precaution-2": "anti itch medicine",
+    "Precaution-3": "consult doctor",
+    "Precaution-4": "eat healthy"
+  },
+  {
+    "Disease": "hepatitis A",
+    "Precaution-1": "Consult nearest hospital",
+    "Precaution-2": "wash hands through",
+    "Precaution-3": "avoid fatty spicy food",
+    "Precaution-4": "medication"
+  },
+  {
+    "Disease": "Osteoarthristis",
+    "Precaution-1": "acetaminophen",
+    "Precaution-2": "consult nearest hospital",
+    "Precaution-3": "follow up",
+    "Precaution-4": "salt baths"
+  },
+  {
+    "Disease": "(vertigo) Paroymsal  Positional Vertigo",
+    "Precaution-1": "lie down",
+    "Precaution-2": "avoid sudden change in body",
+    "Precaution-3": "avoid abrupt head movment",
+    "Precaution-4": "relax"
+  },
+  {
+    "Disease": "Hypoglycemia",
+    "Precaution-1": "lie down on side",
+    "Precaution-2": "check in pulse",
+    "Precaution-3": "drink sugary drinks",
+    "Precaution-4": "consult doctor"
+  },
+  {
+    "Disease": "Acne",
+    "Precaution-1": "bath twice",
+    "Precaution-2": "avoid fatty spicy food",
+    "Precaution-3": "drink plenty of water",
+    "Precaution-4": "avoid too many products"
+  },
+  {
+    "Disease": "Diabetes",
+    "Precaution-1": "have balanced diet",
+    "Precaution-2": "exercise",
+    "Precaution-3": "consult doctor",
+    "Precaution-4": "follow up"
+  },
+  {
+    "Disease": "Impetigo",
+    "Precaution-1": "soak affected area in warm water",
+    "Precaution-2": "use antibiotics",
+    "Precaution-3": "remove scabs with wet compressed cloth",
+    "Precaution-4": "consult doctor"
+  },
+  {
+    "Disease": "Hypertension",
+    "Precaution-1": "meditation",
+    "Precaution-2": "salt baths",
+    "Precaution-3": "reduce stress",
+    "Precaution-4": "get proper sleep"
+  },
+  {
+    "Disease": "Peptic ulcer diseae",
+    "Precaution-1": "avoid fatty spicy food",
+    "Precaution-2": "consume probiotic food",
+    "Precaution-3": "eliminate milk",
+    "Precaution-4": "limit alcohol"
+  },
+  {
+    "Disease": "Dimorphic hemmorhoids(piles)",
+    "Precaution-1": "avoid fatty spicy food",
+    "Precaution-2": "consume witch hazel",
+    "Precaution-3": "warm bath with epsom salt",
+    "Precaution-4": "consume alovera juice"
+  },
+  {
+    "Disease": "Common Cold",
+    "Precaution-1": "drink vitamin c rich drinks",
+    "Precaution-2": "take vapour",
+    "Precaution-3": "avoid cold food",
+    "Precaution-4": "keep fever in check"
+  },
+  {
+    "Disease": "Chicken pox",
+    "Precaution-1": "use neem in bathing",
+    "Precaution-2": "consume neem leaves",
+    "Precaution-3": "take vaccine",
+    "Precaution-4": "avoid public places"
+  },
+  {
+    "Disease": "Cervical spondylosis",
+    "Precaution-1": "use heating pad or cold pack",
+    "Precaution-2": "exercise",
+    "Precaution-3": "take otc pain reliver",
+    "Precaution-4": "consult doctor"
+  },
+  {
+    "Disease": "Hyperthyroidism",
+    "Precaution-1": "eat healthy",
+    "Precaution-2": "massage",
+    "Precaution-3": "use lemon balm",
+    "Precaution-4": "take radioactive iodine treatment"
+  },
+  {
+    "Disease": "Urinary tract infection",
+    "Precaution-1": "drink plenty of water",
+    "Precaution-2": "increase vitamin c intake",
+    "Precaution-3": "drink cranberry juice",
+    "Precaution-4": "take probiotics"
+  },
+  {
+    "Disease": "Varicose veins",
+    "Precaution-1": "lie down flat and raise the leg high",
+    "Precaution-2": "use oinments",
+    "Precaution-3": "use vein compression",
+    "Precaution-4": "dont stand still for long"
+  },
+  {
+    "Disease": "AIDS",
+    "Precaution-1": "avoid open cuts",
+    "Precaution-2": "wear ppe if possible",
+    "Precaution-3": "consult doctor",
+    "Precaution-4": "follow up"
+  },
+  {
+    "Disease": "Paralysis (brain hemorrhage)",
+    "Precaution-1": "massage",
+    "Precaution-2": "eat healthy",
+    "Precaution-3": "exercise",
+    "Precaution-4": "consult doctor"
+  },
+  {
+    "Disease": "Typhoid",
+    "Precaution-1": "eat high calorie vegitables",
+    "Precaution-2": "antiboitic therapy",
+    "Precaution-3": "consult doctor",
+    "Precaution-4": "medication"
+  },
+  {
+    "Disease": "Hepatitis B",
+    "Precaution-1": "consult nearest hospital",
+    "Precaution-2": "vaccination",
+    "Precaution-3": "eat healthy",
+    "Precaution-4": "medication"
+  },
+  {
+    "Disease": "Fungal infection",
+    "Precaution-1": "bath twice",
+    "Precaution-2": "use detol or neem in bathing water",
+    "Precaution-3": "keep infected area dry",
+    "Precaution-4": "use clean cloths"
+  },
+  {
+    "Disease": "Hepatitis C",
+    "Precaution-1": "Consult nearest hospital",
+    "Precaution-2": "vaccination",
+    "Precaution-3": "eat healthy",
+    "Precaution-4": "medication"
+  },
+  {
+    "Disease": "Migraine",
+    "Precaution-1": "meditation",
+    "Precaution-2": "reduce stress",
+    "Precaution-3": "use poloroid glasses in sun",
+    "Precaution-4": "consult doctor"
+  },
+  {
+    "Disease": "Bronchial Asthma",
+    "Precaution-1": "switch to loose cloothing",
+    "Precaution-2": "take deep breaths",
+    "Precaution-3": "get away from trigger",
+    "Precaution-4": "seek help"
+  },
+  {
+    "Disease": "Alcoholic hepatitis",
+    "Precaution-1": "stop alcohol consumption",
+    "Precaution-2": "consult doctor",
+    "Precaution-3": "medication",
+    "Precaution-4": "follow up"
+  },
+  {
+    "Disease": "Jaundice",
+    "Precaution-1": "drink plenty of water",
+    "Precaution-2": "consume milk thistle",
+    "Precaution-3": "eat fruits and high fiberous food",
+    "Precaution-4": "medication"
+  },
+  {
+    "Disease": "Hepatitis E",
+    "Precaution-1": "stop alcohol consumption",
+    "Precaution-2": "rest",
+    "Precaution-3": "consult doctor",
+    "Precaution-4": "medication"
+  },
+  {
+    "Disease": "Dengue",
+    "Precaution-1": "drink papaya leaf juice",
+    "Precaution-2": "avoid fatty spicy food",
+    "Precaution-3": "keep mosquitos away",
+    "Precaution-4": "keep hydrated"
+  },
+  {
+    "Disease": "Hepatitis D",
+    "Precaution-1": "consult doctor",
+    "Precaution-2": "medication",
+    "Precaution-3": "eat healthy",
+    "Precaution-4": "follow up"
+  },
+  {
+    "Disease": "Heart attack",
+    "Precaution-1": "call ambulance",
+    "Precaution-2": "chew or swallow asprin",
+    "Precaution-3": "keep calm",
+    "Precaution-4": ""
+  },
+  {
+    "Disease": "Pneumonia",
+    "Precaution-1": "consult doctor",
+    "Precaution-2": "medication",
+    "Precaution-3": "rest",
+    "Precaution-4": "follow up"
+  },
+  {
+    "Disease": "Arthritis",
+    "Precaution-1": "exercise",
+    "Precaution-2": "use hot and cold therapy",
+    "Precaution-3": "try acupuncture",
+    "Precaution-4": "massage"
+  },
+  {
+    "Disease": "Gastroenteritis",
+    "Precaution-1": "stop eating solid food for while",
+    "Precaution-2": "try taking small sips of water",
+    "Precaution-3": "rest",
+    "Precaution-4": "ease back into eating"
+  },
+  {
+    "Disease": "Tuberculosis",
+    "Precaution-1": "cover mouth",
+    "Precaution-2": "consult doctor",
+    "Precaution-3": "medication",
+    "Precaution-4": "rest"
+  }
+]

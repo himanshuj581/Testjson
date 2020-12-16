@@ -468,10 +468,6 @@
     "weight": 5
   },
   {
-    "Symptom": "fluid_overload",
-    "weight": 4
-  },
-  {
     "Symptom": "blood_in_sputum",
     "weight": 5
   },
